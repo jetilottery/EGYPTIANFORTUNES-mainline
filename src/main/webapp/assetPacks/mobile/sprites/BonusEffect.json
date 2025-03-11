@@ -1,0 +1,39 @@
+{"frames": {
+
+"runeBonusdoor1.jpg":
+{
+	"frame": {"x":0,"y":0,"w":287,"h":444},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":287,"h":444},
+	"sourceSize": {"w":287,"h":444}
+},
+"runeBonusdoor2.jpg":
+{
+	"frame": {"x":287,"y":0,"w":287,"h":444},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":287,"h":444},
+	"sourceSize": {"w":287,"h":444}
+},
+"runeBonusdoorIn.jpg":
+{
+	"frame": {"x":574,"y":0,"w":477,"h":405},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":477,"h":405},
+	"sourceSize": {"w":477,"h":405}
+}},
+"animations": {
+	"runeBonusdoor": ["runeBonusdoor1.jpg","runeBonusdoor2.jpg"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "BonusEffect.png",
+	"format": "RGBA8888",
+	"size": {"w":1051,"h":444},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:919a1a9b2ca06a11a334adcaa6263817:34ed8fd023b99ce220852d45a27c80e0:7455b1e6c720d70b0a7bda0965502add$"
+}
+}

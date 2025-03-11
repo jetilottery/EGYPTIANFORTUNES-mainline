@@ -1,0 +1,22 @@
+{"frames": {
+
+"runeBonusdoorPattern2.png":
+{
+	"frame": {"x":0,"y":0,"w":66,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":66},
+	"sourceSize": {"w":66,"h":66}
+}},
+"animations": {
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "BonusEffect2.png",
+	"format": "RGBA8888",
+	"size": {"w":66,"h":66},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6179f5af267f0f60eb04c822fd5312a8:abe69ac446747df354d46af6dd538b61:15d7641d2d5de45b9e0fbe5b14b73bfd$"
+}
+}

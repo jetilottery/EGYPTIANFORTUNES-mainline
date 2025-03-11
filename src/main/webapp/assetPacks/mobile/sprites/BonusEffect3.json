@@ -1,0 +1,22 @@
+{"frames": {
+
+"doorEffect1.png":
+{
+	"frame": {"x":0,"y":0,"w":470,"h":470},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":470,"h":470},
+	"sourceSize": {"w":470,"h":470}
+}},
+"animations": {
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "BonusEffect3.png",
+	"format": "RGBA8888",
+	"size": {"w":470,"h":470},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:52ec64de1d77b56ae19fd6de87c5c341:0d6ff38de7704ce5b906735f431b4985:aaee697773d245ec0ff66c8d6aa83826$"
+}
+}

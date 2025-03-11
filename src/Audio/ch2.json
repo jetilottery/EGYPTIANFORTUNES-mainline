@@ -1,0 +1,17 @@
+{
+  "urls": [
+    "ch2.ogg",
+    "ch2.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "BonusTriggeredRune": [
+      1050,
+      2682.947845804989
+    ]
+  }
+}

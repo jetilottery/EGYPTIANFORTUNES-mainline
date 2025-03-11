@@ -1,0 +1,247 @@
+{"frames": {
+
+"AmuletMeterBoom_0001.png":
+{
+	"frame": {"x":0,"y":0,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+"AmuletMeterBoom_0002.png":
+{
+	"frame": {"x":110,"y":0,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+"AmuletMeterBoom_0003.png":
+{
+	"frame": {"x":0,"y":110,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+"AmuletMeterBoom_0004.png":
+{
+	"frame": {"x":110,"y":110,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+"AmuletMeterBoom_0005.png":
+{
+	"frame": {"x":0,"y":220,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+"AmuletMeterBoom_0006.png":
+{
+	"frame": {"x":110,"y":220,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+"AmuletMeterBoom_0007.png":
+{
+	"frame": {"x":0,"y":330,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+"AmuletMeterBoom_0008.png":
+{
+	"frame": {"x":110,"y":330,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+"AmuletMeterBoom_0009.png":
+{
+	"frame": {"x":0,"y":440,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+"AmuletMeterBoom_0010.png":
+{
+	"frame": {"x":110,"y":440,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+"AmuletMeterBoom_0011.png":
+{
+	"frame": {"x":0,"y":550,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+"AmuletMeterBoom_0012.png":
+{
+	"frame": {"x":110,"y":550,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+"AmuletMeterBoom_0013.png":
+{
+	"frame": {"x":0,"y":660,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+"AmuletMeterBoom_0014.png":
+{
+	"frame": {"x":110,"y":660,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+"AmuletMeterBoom_0015.png":
+{
+	"frame": {"x":0,"y":770,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+"AmuletMeterBoom_0016.png":
+{
+	"frame": {"x":110,"y":770,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+"AmuletMeterBoom_0017.png":
+{
+	"frame": {"x":0,"y":880,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+"AmuletMeterBoom_0018.png":
+{
+	"frame": {"x":110,"y":880,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+"AmuletMeterBoom_0019.png":
+{
+	"frame": {"x":0,"y":990,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+"AmuletMeterBoom_0020.png":
+{
+	"frame": {"x":110,"y":990,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+"AmuletMeterBoom_0021.png":
+{
+	"frame": {"x":0,"y":1100,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+"AmuletMeterBoom_0022.png":
+{
+	"frame": {"x":110,"y":1100,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+"AmuletMeterBoom_0023.png":
+{
+	"frame": {"x":0,"y":1210,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+"AmuletMeterBoom_0024.png":
+{
+	"frame": {"x":110,"y":1210,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+"AmuletMeterBoom_0025.png":
+{
+	"frame": {"x":0,"y":1320,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+"AmuletMeterBoom_0026.png":
+{
+	"frame": {"x":110,"y":1320,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+"AmuletMeterBoom_0027.png":
+{
+	"frame": {"x":0,"y":1430,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+"AmuletMeterBoom_0028.png":
+{
+	"frame": {"x":110,"y":1430,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+"AmuletMeterBoom_0029.png":
+{
+	"frame": {"x":0,"y":1540,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+}},
+"animations": {
+	"AmuletMeterBoom": ["AmuletMeterBoom_0001.png","AmuletMeterBoom_0002.png","AmuletMeterBoom_0003.png","AmuletMeterBoom_0004.png","AmuletMeterBoom_0005.png","AmuletMeterBoom_0006.png","AmuletMeterBoom_0007.png","AmuletMeterBoom_0008.png","AmuletMeterBoom_0009.png","AmuletMeterBoom_0010.png","AmuletMeterBoom_0011.png","AmuletMeterBoom_0012.png","AmuletMeterBoom_0013.png","AmuletMeterBoom_0014.png","AmuletMeterBoom_0015.png","AmuletMeterBoom_0016.png","AmuletMeterBoom_0017.png","AmuletMeterBoom_0018.png","AmuletMeterBoom_0019.png","AmuletMeterBoom_0020.png","AmuletMeterBoom_0021.png","AmuletMeterBoom_0022.png","AmuletMeterBoom_0023.png","AmuletMeterBoom_0024.png","AmuletMeterBoom_0025.png","AmuletMeterBoom_0026.png","AmuletMeterBoom_0027.png","AmuletMeterBoom_0028.png","AmuletMeterBoom_0029.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AmuletMeterBoom.png",
+	"format": "RGBA8888",
+	"size": {"w":220,"h":1650},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2916f47e2642738be1f564327f1c7a4d:1d57e4544a35a981b3a539dcb1a378b7:5af12569d9bf89445cbef77fd09b274d$"
+}
+}

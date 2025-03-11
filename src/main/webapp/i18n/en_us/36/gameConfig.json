@@ -1,0 +1,25 @@
+{
+    "showTutorialAtBeginning": false,
+    "showResultScreen":true,
+    "suppressNonWinResultPlaque": false,
+    "enableAudioDialog": false,
+    "baseGameRevealInterval":200,
+    "runeBonusRevealInterval":800,
+    "baseTransitions":0.3,
+    "bonusTransitions":0.02,
+    "paytableShow_OddsPerTier":false,
+    "paytable_AdditionalText":"",
+    "paytable_Links":"",
+    "bigWinThresholds": {
+        "level1": {
+          "upper": {"multiplier": 5, "inclusive": false}
+        },
+        "level2": {
+          "lower": {"multiplier": 5, "inclusive": true},
+          "upper": {"multiplier": 20, "inclusive": true}
+        },
+        "level3": {
+          "lower": {"multiplier": 20, "inclusive": false}
+        }
+    }
+}

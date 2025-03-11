@@ -1,0 +1,47 @@
+{"frames": {
+
+"logo.png":
+{
+	"frame": {"x":340,"y":0,"w":558,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":558,"h":100},
+	"sourceSize": {"w":558,"h":100}
+},
+"portraitBGTop.jpg":
+{
+	"frame": {"x":0,"y":218,"w":810,"h":1440},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":1440},
+	"sourceSize": {"w":810,"h":1440}
+},
+"rotate1.png":
+{
+	"frame": {"x":0,"y":0,"w":122,"h":218},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":218},
+	"sourceSize": {"w":122,"h":218}
+},
+"rotate2.png":
+{
+	"frame": {"x":122,"y":0,"w":218,"h":122},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":218,"h":122},
+	"sourceSize": {"w":218,"h":122}
+}},
+"animations": {
+	"rotate": ["rotate1.png","rotate2.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "background4.png",
+	"format": "RGBA8888",
+	"size": {"w":898,"h":1658},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a876f0dec1595ae1fa3005550463376b:7e1cb4408b3d452ec4399a908c261209:9929c094f0e5468061d716acb1d30e13$"
+}
+}

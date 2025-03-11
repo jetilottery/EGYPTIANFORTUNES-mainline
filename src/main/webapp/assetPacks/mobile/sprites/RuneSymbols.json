@@ -1,0 +1,176 @@
+{"frames": {
+
+"bonusDoorLight_0001.png":
+{
+	"frame": {"x":0,"y":86,"w":140,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":140},
+	"sourceSize": {"w":140,"h":140}
+},
+"bonusDoorLight_0002.png":
+{
+	"frame": {"x":140,"y":86,"w":140,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":140},
+	"sourceSize": {"w":140,"h":140}
+},
+"bonusDoorLight_0003.png":
+{
+	"frame": {"x":280,"y":86,"w":140,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":140},
+	"sourceSize": {"w":140,"h":140}
+},
+"bonusDoorLight_0004.png":
+{
+	"frame": {"x":0,"y":226,"w":140,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":140},
+	"sourceSize": {"w":140,"h":140}
+},
+"bonusDoorLight_0005.png":
+{
+	"frame": {"x":140,"y":226,"w":140,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":140},
+	"sourceSize": {"w":140,"h":140}
+},
+"bonusDoorLight_0006.png":
+{
+	"frame": {"x":280,"y":226,"w":140,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":140},
+	"sourceSize": {"w":140,"h":140}
+},
+"bonusDoorLight_0007.png":
+{
+	"frame": {"x":0,"y":366,"w":140,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":140},
+	"sourceSize": {"w":140,"h":140}
+},
+"bonusDoorLight_0008.png":
+{
+	"frame": {"x":140,"y":366,"w":140,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":140},
+	"sourceSize": {"w":140,"h":140}
+},
+"bonusDoorLight_0009.png":
+{
+	"frame": {"x":280,"y":366,"w":140,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":140},
+	"sourceSize": {"w":140,"h":140}
+},
+"bonusDoorLight_0010.png":
+{
+	"frame": {"x":0,"y":506,"w":140,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":140},
+	"sourceSize": {"w":140,"h":140}
+},
+"bonusDoorLight_0011.png":
+{
+	"frame": {"x":140,"y":506,"w":140,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":140},
+	"sourceSize": {"w":140,"h":140}
+},
+"bonusDoorLight_0012.png":
+{
+	"frame": {"x":280,"y":506,"w":140,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":140},
+	"sourceSize": {"w":140,"h":140}
+},
+"bonusDoorLight_0013.png":
+{
+	"frame": {"x":0,"y":646,"w":140,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":140},
+	"sourceSize": {"w":140,"h":140}
+},
+"bonusDoorLight_0014.png":
+{
+	"frame": {"x":140,"y":646,"w":140,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":140},
+	"sourceSize": {"w":140,"h":140}
+},
+"bonusDoorLight_0015.png":
+{
+	"frame": {"x":280,"y":646,"w":140,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":140},
+	"sourceSize": {"w":140,"h":140}
+},
+"bonusStone1.png":
+{
+	"frame": {"x":0,"y":0,"w":84,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":84},
+	"sourceSize": {"w":84,"h":84}
+},
+"bonusStone2.png":
+{
+	"frame": {"x":84,"y":0,"w":84,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":84},
+	"sourceSize": {"w":84,"h":84}
+},
+"bonusStone3.png":
+{
+	"frame": {"x":168,"y":0,"w":84,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":84},
+	"sourceSize": {"w":84,"h":84}
+},
+"bonusStone4.png":
+{
+	"frame": {"x":252,"y":0,"w":84,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":84},
+	"sourceSize": {"w":84,"h":84}
+},
+"bonusStoneMask.png":
+{
+	"frame": {"x":336,"y":0,"w":93,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":86},
+	"sourceSize": {"w":93,"h":86}
+}},
+"animations": {
+	"bonusDoorLight": ["bonusDoorLight_0001.png","bonusDoorLight_0002.png","bonusDoorLight_0003.png","bonusDoorLight_0004.png","bonusDoorLight_0005.png","bonusDoorLight_0006.png","bonusDoorLight_0007.png","bonusDoorLight_0008.png","bonusDoorLight_0009.png","bonusDoorLight_0010.png","bonusDoorLight_0011.png","bonusDoorLight_0012.png","bonusDoorLight_0013.png","bonusDoorLight_0014.png","bonusDoorLight_0015.png"],
+	"bonusStone": ["bonusStone1.png","bonusStone2.png","bonusStone3.png","bonusStone4.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "RuneSymbols.png",
+	"format": "RGBA8888",
+	"size": {"w":429,"h":786},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:05c8c31d62f575ed97e96ecaf7d9303d:f3a2bb0bcd8b2e0b770b476e0937399e:cb9d598b4a584a48fd9a83d100b5c991$"
+}
+}

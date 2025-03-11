@@ -1,0 +1,124 @@
+{
+	"audioLoader": {
+		"yes": "Yes",
+		"no": "No",
+		"confirm": "Would you like sound?"
+	},
+	"title": "Egyptian Fortunes",
+	"Paytable": {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "from {@minRTP}% to {@maxRTP}%",
+        "RTPrangeStatic": "from 85.00% to 93.00%",
+        "paybackTitle": "Expected Payback",
+        "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}."
+    },
+	"MenuCommand": {
+        "WLA": {
+            "howToPlay": "help",
+            "payTable": "Prize Table",
+            "price": "Price",
+            "stake": "Stake",
+            "balance": "Balance",
+            "prizeDivision": "Prize Division",
+            "prizeValue": "Prize Value",
+            "approximatePrize": "Approximate Prizes Remaining",
+            "oddsPerPlay": "Odds Per Play",
+            "overAllOdds": "There is a 1 in {oddNum} overall chance of winning a prize on each play",
+            "availablePrices": "Available Price Points:{prices}"
+        },
+        "Commercial": {
+            "howToPlay": "help",
+            "payTable": "Paytable",
+            "price": "Price",
+            "stake": "Stake",
+            "balance": "Balance",
+            "description":"Glyph Bonus Prize"     
+        },
+        "audio": {
+            "on": "On",
+            "off": "Off",
+            "sound": "Sound"
+        }
+    },
+	"Error": {
+        "error29000": "Error:29000\n\nThere has been an internal error.\nEXIT and relaunch the game."
+    },
+	"Game": {
+        "WLA": {
+            "tutorialTitle": "HOW TO PLAY",
+            "tutorialPage": "Select each Pyramid to reveal a symbol.\nReveal 4 or more Cartouche symbols to win a prize!\nFind 4 Scepter sub-symbols to trigger the Glyph Bonus.\nFind 4 Eye sub-symbols to trigger the Talisman Bonus. ",
+            "tutorialPage01": "In the Glyph Bonus, select 4 glyph stones to reveal an Eye sub-symbol or win a prize.\nIn the Talisman Bonus, select a talisman to multiply the total win. "
+        },
+        "Commercial": {
+            "tutorialTitle": "HOW TO PLAY",
+            "tutorialPage": "Select each Pyramid to reveal a symbol.\nReveal 4 or more Cartouche symbols to win a prize!\nFind 4 Scepter sub-symbols to trigger the Glyph Bonus.\nFind 4 Eye sub-symbols to trigger the Talisman Bonus. ",
+            "tutorialPage01": "In the Glyph Bonus, select 4 glyph stones to reveal an Eye sub-symbol or win a prize.\nIn the Talisman Bonus, select a talisman to multiply the total win. "
+        },  
+            "GLYPHBONUS":"GLYPH BONUS",
+            "TALISMANBONUS":"TALISMAN BONUS", 
+            "BpormptText":"Select a talisman to multiply the total win.",
+            "ApormptText":"Select 4 glyph stones to reveal an Eye sub-symbol or win a prize.",
+            "talismanbonus":"TALISMAN\nBONUS",
+            "totalwin":"CONGRATULATIONS!\nYOU HAVE WON",
+            "totalbonuswin":"TOTAL WIN",
+            "totaldemowin":"THANKS FOR PLAYING!\nYOU COULD HAVE WON",
+            "bonuswin":"BONUS WINS", 
+            "bonusLogo":"GLYPH\nBONUS",
+            "find":"FIND",
+            "win":"WIN",
+            "multiplierText_1":"13x",
+            "multiplierText_2":"12x",
+            "multiplierText_3":"11x",
+            "multiplierText_4":"10x",
+            "multiplierText_5":"9x",
+            "multiplierText_6":"8x",
+            "multiplierText_7":"7x",
+            "multiplierText_8":"6x",
+            "multiplierText_9":"5x",
+            "multiplierText_10":"4x",
+            "amuletMultipleText_1":"10x",
+            "amuletMultipleText_2":"5x",
+            "amuletMultipleText_3":"4x",
+            "amuletMultipleText_4":"3x",
+            "amuletMultipleText_5":"2x",
+             "demo": "TRY ",
+            "button_buy": "BUY",
+            "button_try": "TRY",
+            "button_continue": "CONTINUE",
+            "button_move2moneyGame": "MOVE TO MONEY",
+            "button_autoPlay": "REVEAL ALL",
+            "button_playAgain":"PLAY AGAIN",
+            "button_MTMPlayAgain":"TRY AGAIN",
+            "button_stop":"STOP",
+            "wager": "TICKET COST",
+            "meter_wager": "TICKET COST ",            
+            "balance": "BALANCE ",
+            "wins": "WIN ",
+            "wins_demo": "DEMO WIN ",
+            "message_nonWin01": "BETTER LUCK",
+            "message_nonWin02": "NEXT TIME",
+            "message_buyWin": "CONGRATULATIONS!\nYou have won",
+            "message_tryWin": "THANKS FOR PLAYING!\nYou could have won",
+            "message_anonymousTryWin": "THANKS FOR PLAYING!\nYou could have won",
+            "message_close": "OK",
+            "button_exit": "EXIT",
+            "session_timeout_warning_exit_button": "EXIT",
+            "error_button_exit": "EXIT",
+            "warning_button_continue": "CONTINUE",
+            "warning_button_exitGame": "EXIT",
+            "warning_title": "WARNING",
+            "error_title": "ERROR",
+            "win_up_to":"WIN UP TO",
+            "win_up_to_mark":"!",
+            "tutorial_title":"HOW TO PLAY",            
+            "your_number":"YOUR SYMBOLS",
+            "luck_number":"WINNING SYMBOLS",
+            "meter_division":" | ",
+            "buttonClose":"X",
+			"prizeLevel": "Prize Level",
+			"prizeDescription": "Description",
+            "prizeValue": "Prize Value",
+            "paytableWager": "TICKET COST "
+
+	}
+}

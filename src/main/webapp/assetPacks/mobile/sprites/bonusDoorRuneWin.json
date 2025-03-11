@@ -1,0 +1,55 @@
+{"frames": {
+
+"bonusDoorRuneWin_1.png":
+{
+	"frame": {"x":0,"y":0,"w":84,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":84},
+	"sourceSize": {"w":84,"h":84}
+},
+"bonusDoorRuneWin_2.png":
+{
+	"frame": {"x":84,"y":0,"w":84,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":84},
+	"sourceSize": {"w":84,"h":84}
+},
+"bonusDoorRuneWin_3.png":
+{
+	"frame": {"x":168,"y":0,"w":84,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":84},
+	"sourceSize": {"w":84,"h":84}
+},
+"bonusDoorRuneWin_4.png":
+{
+	"frame": {"x":252,"y":0,"w":84,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":84},
+	"sourceSize": {"w":84,"h":84}
+},
+"runeMeter.png":
+{
+	"frame": {"x":336,"y":0,"w":84,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":84},
+	"sourceSize": {"w":84,"h":84}
+}},
+"animations": {
+	"bonusDoorRuneWin": ["bonusDoorRuneWin_1.png","bonusDoorRuneWin_2.png","bonusDoorRuneWin_3.png","bonusDoorRuneWin_4.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bonusDoorRuneWin.png",
+	"format": "RGBA8888",
+	"size": {"w":420,"h":84},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7298cc22663d894470e444a887ad9c89:7d1f4a9000442ff4aabf331d700469d1:d8538e929c5c8710f4bbd0b536172674$"
+}
+}

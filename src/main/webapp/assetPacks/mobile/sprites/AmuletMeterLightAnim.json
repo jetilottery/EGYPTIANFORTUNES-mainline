@@ -1,0 +1,135 @@
+{"frames": {
+
+"AmuletMeterLightAnim_0000.png":
+{
+	"frame": {"x":0,"y":0,"w":440,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":440,"h":300},
+	"sourceSize": {"w":440,"h":300}
+},
+"AmuletMeterLightAnim_0001.png":
+{
+	"frame": {"x":440,"y":0,"w":440,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":440,"h":300},
+	"sourceSize": {"w":440,"h":300}
+},
+"AmuletMeterLightAnim_0002.png":
+{
+	"frame": {"x":880,"y":0,"w":440,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":440,"h":300},
+	"sourceSize": {"w":440,"h":300}
+},
+"AmuletMeterLightAnim_0003.png":
+{
+	"frame": {"x":1320,"y":0,"w":440,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":440,"h":300},
+	"sourceSize": {"w":440,"h":300}
+},
+"AmuletMeterLightAnim_0004.png":
+{
+	"frame": {"x":0,"y":300,"w":440,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":440,"h":300},
+	"sourceSize": {"w":440,"h":300}
+},
+"AmuletMeterLightAnim_0005.png":
+{
+	"frame": {"x":440,"y":300,"w":440,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":440,"h":300},
+	"sourceSize": {"w":440,"h":300}
+},
+"AmuletMeterLightAnim_0006.png":
+{
+	"frame": {"x":880,"y":300,"w":440,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":440,"h":300},
+	"sourceSize": {"w":440,"h":300}
+},
+"AmuletMeterLightAnim_0007.png":
+{
+	"frame": {"x":1320,"y":300,"w":440,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":440,"h":300},
+	"sourceSize": {"w":440,"h":300}
+},
+"AmuletMeterLightAnim_0008.png":
+{
+	"frame": {"x":0,"y":600,"w":440,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":440,"h":300},
+	"sourceSize": {"w":440,"h":300}
+},
+"AmuletMeterLightAnim_0009.png":
+{
+	"frame": {"x":440,"y":600,"w":440,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":440,"h":300},
+	"sourceSize": {"w":440,"h":300}
+},
+"AmuletMeterLightAnim_0010.png":
+{
+	"frame": {"x":880,"y":600,"w":440,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":440,"h":300},
+	"sourceSize": {"w":440,"h":300}
+},
+"AmuletMeterLightAnim_0011.png":
+{
+	"frame": {"x":1320,"y":600,"w":440,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":440,"h":300},
+	"sourceSize": {"w":440,"h":300}
+},
+"AmuletMeterLightAnim_0012.png":
+{
+	"frame": {"x":0,"y":900,"w":440,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":440,"h":300},
+	"sourceSize": {"w":440,"h":300}
+},
+"AmuletMeterLightAnim_0013.png":
+{
+	"frame": {"x":440,"y":900,"w":440,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":440,"h":300},
+	"sourceSize": {"w":440,"h":300}
+},
+"AmuletMeterLightAnim_0014.png":
+{
+	"frame": {"x":880,"y":900,"w":440,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":440,"h":300},
+	"sourceSize": {"w":440,"h":300}
+}},
+"animations": {
+	"AmuletMeterLightAnim": ["AmuletMeterLightAnim_0000.png","AmuletMeterLightAnim_0001.png","AmuletMeterLightAnim_0002.png","AmuletMeterLightAnim_0003.png","AmuletMeterLightAnim_0004.png","AmuletMeterLightAnim_0005.png","AmuletMeterLightAnim_0006.png","AmuletMeterLightAnim_0007.png","AmuletMeterLightAnim_0008.png","AmuletMeterLightAnim_0009.png","AmuletMeterLightAnim_0010.png","AmuletMeterLightAnim_0011.png","AmuletMeterLightAnim_0012.png","AmuletMeterLightAnim_0013.png","AmuletMeterLightAnim_0014.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AmuletMeterLightAnim.png",
+	"format": "RGBA8888",
+	"size": {"w":1760,"h":1200},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c47de0650e7234f7342c2b64f1bbba1e:94b630748fb0724014f923bdf90dddf7:a143438bdba4ad65cfe8518f467b6a3b$"
+}
+}

@@ -1,0 +1,41 @@
+{
+  "urls": [
+    "ch6.ogg",
+    "ch6.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "BonusAmuletSelect": [
+      1050,
+      4670.272108843537
+    ],
+    "BonusRuneSelectAmulet": [
+      6100,
+      4209.614512471655
+    ],
+    "BonusRuneSelectPrize": [
+      11149.999999999998,
+      4095.147392290249
+    ],
+    "SymbolAmulet": [
+      16200,
+      2924.1950113378684
+    ],
+    "SymbolAmuletQuick": [
+      19250,
+      1039.0476190476186
+    ],
+    "SymbolRune": [
+      21300,
+      2438.979591836734
+    ],
+    "SymbolRuneQuick": [
+      24350,
+      1039.8412698412685
+    ]
+  }
+}

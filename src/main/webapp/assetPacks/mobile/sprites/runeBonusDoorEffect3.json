@@ -1,0 +1,231 @@
+{"frames": {
+
+"runeBonusDoorEffect3_0023.png":
+{
+	"frame": {"x":0,"y":0,"w":180,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"runeBonusDoorEffect3_0024.png":
+{
+	"frame": {"x":180,"y":0,"w":180,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"runeBonusDoorEffect3_0025.png":
+{
+	"frame": {"x":360,"y":0,"w":180,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"runeBonusDoorEffect3_0026.png":
+{
+	"frame": {"x":540,"y":0,"w":180,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"runeBonusDoorEffect3_0027.png":
+{
+	"frame": {"x":720,"y":0,"w":180,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"runeBonusDoorEffect3_0028.png":
+{
+	"frame": {"x":0,"y":180,"w":180,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"runeBonusDoorEffect3_0029.png":
+{
+	"frame": {"x":180,"y":180,"w":180,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"runeBonusDoorEffect3_0030.png":
+{
+	"frame": {"x":360,"y":180,"w":180,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"runeBonusDoorEffect3_0031.png":
+{
+	"frame": {"x":540,"y":180,"w":180,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"runeBonusDoorEffect3_0032.png":
+{
+	"frame": {"x":720,"y":180,"w":180,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"runeBonusDoorEffect3_0033.png":
+{
+	"frame": {"x":0,"y":360,"w":180,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"runeBonusDoorEffect3_0034.png":
+{
+	"frame": {"x":180,"y":360,"w":180,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"runeBonusDoorEffect3_0035.png":
+{
+	"frame": {"x":360,"y":360,"w":180,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"runeBonusDoorEffect3_0036.png":
+{
+	"frame": {"x":540,"y":360,"w":180,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"runeBonusDoorEffect3_0037.png":
+{
+	"frame": {"x":720,"y":360,"w":180,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"runeBonusDoorEffect3_0038.png":
+{
+	"frame": {"x":0,"y":540,"w":180,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"runeBonusDoorEffect3_0039.png":
+{
+	"frame": {"x":180,"y":540,"w":180,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"runeBonusDoorEffect3_0040.png":
+{
+	"frame": {"x":360,"y":540,"w":180,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"runeBonusDoorEffect3_0041.png":
+{
+	"frame": {"x":540,"y":540,"w":180,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"runeBonusDoorEffect3_0042.png":
+{
+	"frame": {"x":720,"y":540,"w":180,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"runeBonusDoorEffect3_0043.png":
+{
+	"frame": {"x":0,"y":720,"w":180,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"runeBonusDoorEffect3_0044.png":
+{
+	"frame": {"x":180,"y":720,"w":180,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"runeBonusDoorEffect3_0045.png":
+{
+	"frame": {"x":360,"y":720,"w":180,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"runeBonusDoorEffect3_0046.png":
+{
+	"frame": {"x":540,"y":720,"w":180,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"runeBonusDoorEffect3_0047.png":
+{
+	"frame": {"x":720,"y":720,"w":180,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"runeBonusDoorEffect3_0048.png":
+{
+	"frame": {"x":0,"y":900,"w":180,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":180},
+	"sourceSize": {"w":180,"h":180}
+},
+"runeBonusDoorEffect3_0049.png":
+{
+	"frame": {"x":180,"y":900,"w":180,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":180},
+	"sourceSize": {"w":180,"h":180}
+}},
+"animations": {
+	"runeBonusDoorEffect3": ["runeBonusDoorEffect3_0023.png","runeBonusDoorEffect3_0024.png","runeBonusDoorEffect3_0025.png","runeBonusDoorEffect3_0026.png","runeBonusDoorEffect3_0027.png","runeBonusDoorEffect3_0028.png","runeBonusDoorEffect3_0029.png","runeBonusDoorEffect3_0030.png","runeBonusDoorEffect3_0031.png","runeBonusDoorEffect3_0032.png","runeBonusDoorEffect3_0033.png","runeBonusDoorEffect3_0034.png","runeBonusDoorEffect3_0035.png","runeBonusDoorEffect3_0036.png","runeBonusDoorEffect3_0037.png","runeBonusDoorEffect3_0038.png","runeBonusDoorEffect3_0039.png","runeBonusDoorEffect3_0040.png","runeBonusDoorEffect3_0041.png","runeBonusDoorEffect3_0042.png","runeBonusDoorEffect3_0043.png","runeBonusDoorEffect3_0044.png","runeBonusDoorEffect3_0045.png","runeBonusDoorEffect3_0046.png","runeBonusDoorEffect3_0047.png","runeBonusDoorEffect3_0048.png","runeBonusDoorEffect3_0049.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "runeBonusDoorEffect3.png",
+	"format": "RGBA8888",
+	"size": {"w":900,"h":1080},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3f74c47d387b85261e0a2f167a7d7b48:e199e3ba522ec31ff5cb4a4661a2eadb:04a6d55fae29dd5e8f8b8226f12b986f$"
+}
+}
